@@ -38,7 +38,7 @@ Develop a supervised-learning pipeline that:
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - **Python 3.10+**  
 - `pandas`, `numpy` – data handling  
 - `matplotlib`, `seaborn` – visualization  
@@ -56,7 +56,8 @@ Develop a supervised-learning pipeline that:
 5. **Evaluation** – compare AUC, ROC, Precision-Recall, Lift  
 6. **Deployment** – translate results into business strategy  
 
-![CRISP-DM Flow](A_cross-industry_standard_process_for_data_mining.png)
+[Understanding] → [Data Understanding] → [Data Preparation] → [Modeling] → [Evaluation] → [Deployment]
+
 
 ---
 
